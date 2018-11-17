@@ -1,0 +1,3 @@
+[submodule "GitDir"]
+	path = GitDir
+	url = https://github.com/aconit96/GitDir.git
